@@ -6,7 +6,7 @@ package ca.sheridancollege.project;
 
 /**
  *
- * @author kchahal0810
+ * @author kchahal081012
  */
 import java.util.Scanner;
 import java.util.ArrayList;
